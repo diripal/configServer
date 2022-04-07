@@ -1,10 +1,10 @@
 server:
-  port: 8099
+  port: 8082
 
 
 spring:
   application:
-    name: EurekaClient1
+    name: eurekaClient1
   h2:
     console:
       settings:
